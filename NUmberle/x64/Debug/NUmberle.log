@@ -1,0 +1,7 @@
+﻿  game.cpp
+  main.cpp
+C:\Users\Marcus\Downloads\CS123_NUMBERLE\CS123_NUMBERLE\Numberle\NUmberle\main.cpp(911,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marcus\Downloads\CS123_NUMBERLE\CS123_NUMBERLE\Numberle\NUmberle\main.cpp(918,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  LINK : C:\Users\Marcus\Downloads\CS123_NUMBERLE\CS123_NUMBERLE\Numberle\x64\Debug\NUmberle.exe not found or not built by the last incremental link; performing full link
+  NUmberle.vcxproj -> C:\Users\Marcus\Downloads\CS123_NUMBERLE\CS123_NUMBERLE\Numberle\x64\Debug\NUmberle.exe
